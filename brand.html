@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Brand · RC Parts Platform</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="brand-detail">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html">RC Parts Platform</a>
+        <p>Brand intelligence</p>
+      </div>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="brands.html">Brands</a>
+        <a href="search.html">Search</a>
+        <a href="creator.html">Creators</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button">🌙</button>
+    </header>
+    <main>
+      <section class="section-header">
+        <div>
+          <h1 id="brand-page-title">Brand</h1>
+          <p>Who mentions this brand and in which videos?</p>
+        </div>
+        <a class="link-pill" href="search.html">Search the platform</a>
+      </section>
+      <div id="brand-detail" class="detail-card"></div>
+      <section class="detail-card">
+        <h2>Video mentions</h2>
+        <p class="muted">Click through to watch the creator talk about the part.</p>
+        <div id="brand-videos-list" class="list-grid"></div>
+      </section>
+    </main>
+    <footer class="bottom-note">
+      <p>Each creator and video is updated nightly so your build data stays current.</p>
+    </footer>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

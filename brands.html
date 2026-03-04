@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Brands · RC Parts Platform</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="brands">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html">RC Parts Platform</a>
+        <p>Browse brands</p>
+      </div>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="brands.html">Brands</a>
+        <a href="search.html">Search</a>
+        <a href="creator.html">Creators</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button">🌙</button>
+    </header>
+    <main>
+      <section class="section-header">
+        <div>
+          <h1>Brands</h1>
+          <p>All brands that our creators mention in their videos.</p>
+        </div>
+      </section>
+      <div class="search-controls">
+        <input id="brand-filter" type="search" placeholder="Filter by brand name or creator" />
+        <span id="brand-count">— brands</span>
+      </div>
+      <div id="brand-list" class="card-grid"></div>
+    </main>
+    <footer class="bottom-note">
+      <p>Every brand card links to creators and videos that mentioned it.</p>
+    </footer>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

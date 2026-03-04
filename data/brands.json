@@ -1,0 +1,2408 @@
+[
+  {
+    "name": "Companies Dashboard",
+    "slug": "companies-dashboard",
+    "video_count": 5812,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Behind The Diary",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Jacob Klug",
+      "Matthew Berman",
+      "Openclaw Labs",
+      "Riley Brown",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "SmartyVan",
+      "The Chrome Project",
+      "Wes Roth"
+    ],
+    "videos": [
+      {
+        "title": "Aider Desk Aider THE GOAT is MAKING A COMEBACK! This Aider-based GUI Coder is AWESOME!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code TASKS (New Upgrade) RIP Ralph Loops! Anthropic UPGRADED Claude Code with this FEATURE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ClaudeDev + NextJS + Supabase Generate FULL-STACK Apps with Claude 3.5 Sonnet",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claudia This OPENSOURCE Claude Code GUI is ABSOLUTELY INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "EasyJob AI This AI Job Board IS AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Gemini Code Assist 4.0 They are GETTING READY for GEMINI 3.0! Next Edit Suggestions, Fast Edit!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "How to choose the Best AI Laptop (Mac, Windows & Linux)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Kombai The World's First SOTA Agent for UI Development is here! Beats 2.5 Pro & Sonnet 4 w MCPs!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "LongCat (560B) Bye Sonnet! Why is NO ONE Talking about this! This OPEN Model is AWESOME!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Lumi.new This APP BUILDER FIXES ALL YOUR VIBE CODING & BACKEND ISSUES!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "MicroSaaSFast + Windsurf, Cursor, Cline EASILY CREATE Profitable MicroSaaS in SECONDS with AI!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "OnDemand Easily Create RAG Agents Apps & Host AI Models within seconds!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "OpenClaw Moltbot Clawdbot + Super Plugin This SIMPLE TRICK Makes Clawdbot behave like a HUMAN!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Perplexica This 100% LOCAL PERPLEXITY CLONE is NEW, FREE & OPENSOURCE (works with Llama 3)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Runbear MCP Agents EASILY Create SUPER AI Agent TEAMMATES for you! Integrate with Slack, Discord!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Tweakcn + Opus 4.5 Gemini 3 Pro The EASIEST Way to MAKE Stunning UIs!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Warp Code This JUST REPLACED Claude Code as #1 Coding Agent",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Claude Code Skills are INSANE (and you’re not using them correctly)",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "I paid $3,000 for Grok 4. Was it worth it",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "You're Using OpenClaw Wrong If You Don't Use Discord",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "How I Remember Everything I Read! (My Learning Secret)",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "How I Run 7 Companies Without Burnout! (5 Stress Hacks)",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "12 Hacks to Be 99.9% More Productive That Cost Nothing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "15 AI Tools That Will Make You $1M (With Zero Employees)",
+        "creator": "Dan Martell"
+      }
+    ]
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "video_count": 3782,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Dan Martell",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Riley Brown",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "SmartyVan",
+      "The Chrome Project",
+      "Wes Roth"
+    ],
+    "videos": [
+      {
+        "title": "BoxChat (Upgraded) This AI Platform is 10X Cheaper than EVERYONE & IS NOW EVEN BETTER!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat AI Assistants + Aider & Cline All-In-One AI Coding with Custom AI Coders for CHEAP!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat This All-In-One AI Platform is 10X Cheaper than Everyone! (O1,GPT-4O, Claude, Flux & SD-3)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Clawdbot + Antigravity Gemini CLI EASY Way to run CLAWDBOT for FREE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Clawdbot + Mac Mini VPS The ULTIMATE LOCAL AI Assistant Agent has ARRIVED!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cline CLI & Sub Agents Cline is back with a new CLI Agent, but is it good",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Dart AI This FULLY FREE & AGENTIC AI Project Manager IS INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "DeepSeek-V3 Agents This FULLY FREE AI Agent can DO ANYTHING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "EasyJob AI This AI Job Board IS AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "NinjaTools This is THE CRAZIEST & FREE AI Tool Suite for EVERYONE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RPGGO Chat with AI Characters & Integrate AI in your Game & Apps Instantly!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RPGGO FULLY FREE Way to CREATE RPG Games with AI in SECONDS! (No Coding Required!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Runbear MCP Agents EASILY Create SUPER AI Agent TEAMMATES for you! Integrate with Slack, Discord!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Slack Coder This AI Coder can CREATE FULL-STACK APPS FROM WITHIN SLACK! (w Vectorshift)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "VectorShift Create Your PERSONAL AI Agents in SECONDS FOR FREE! (w Third Party Integrations)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ZeroClaw This MIGHT BE THE BEST Alternative to OPENCLAW YET!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "5 OpenClaw use cases that will make you a productivity MACHINE",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "6 OpenClaw use cases I promise will change your life",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Building an app LIVE with Claude Code",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Building apps live with GPT-5 and Claude Code",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Claude Code Masterclass From Beginner to Expert in 33 minutes",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Claude Code with Sonnet 4.5 is actually incredible (with 1 exception)",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Claude Sonnet 4.5 is the most INSANE AI model ever",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Did GPT-5 Codex just kill Claude Code",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "GPT-5 Codex From Beginner to Expert in 17 minutes",
+        "creator": "Alex Finn"
+      }
+    ]
+  },
+  {
+    "name": "Vanquish Products",
+    "slug": "vanquish-products",
+    "video_count": 3157,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Behind The Diary",
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "Frontier Tech Strategies",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "SmartyVan",
+      "The Cat Lady VAN",
+      "The Chrome Project",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "Claude Opus 4.5 (Long-term review & My Setup) Opus is FREAKING MAGIC!! It has REPLACED ME!!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Gemini 2.7 Pro (06-05) + Free APIs + Cline, Roo This UPGRADED Gemini 2.5 PRO Model is VERY INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "HitPaw AI Video Converter Convert & Compress Videos in 20 Seconds with this AI Tool!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RTRVR 2.0 This is THE BEST AI AGENT YET! Can do ANYTHING from ONE PROMPT!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "You should switch to Opensource, Right now! (Ft. Recall & Adobe)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Skills explained the most POWERFUL AI tool you’re not using",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "Claude Sonnet 4.5 is the most INSANE AI model ever",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "The ULTIMATE GPT 5.1 Prompting Guide!",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "My BoyHood Dream Crushed! (CAUGHT ON CAMERA)",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "Travelling To Saudi Arabia For The Worlds Biggest Tech Event!",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "24Yep Roasts my Rig #rccrawler #scx24mods #scx24",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Advanced Low CG Trick Battery Terracing - Final Episode 3",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Advanced Tuning with Shock Angle - Part 3 PROGRESSION",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Are you making these mistakes",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Battery Terracing - Part 1 - Soldering",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Beekeeper ESC Teardown - Can I make it better",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Best Battery for Axial SXC24 Crawler - Gens Ace",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Calculate Overdrive the Easy Way!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Calculate Spring Rate the EASY Way!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Can you go lighter Every Gram Counts when you are Counting Gram - Next Level Steering Rod",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Corner Weight Vs. Cross Weight",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Crazy Hack - Can you really remove a broken Tap or Drill bit with a kitchen spice",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Do you know your CG This tool will help. (No, not the tool in the picture)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "EP6 Printed Version - Quest for the Ultimate Performance Crawler Wheel",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep7 Fails and Foams - Quest for the Ultimate Crawler Wheel",
+        "creator": "Boomslang Suspension"
+      }
+    ]
+  },
+  {
+    "name": "Brazins Scale RC",
+    "slug": "brazins-scale-rc",
+    "video_count": 3095,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Behind The Diary",
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "Frontier Tech Strategies",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "The Cat Lady VAN",
+      "The Chrome Project",
+      "Unknown",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "CapRover STOP PAYING for VERCEL & SUPABASE with this NEW, FREE, OPENSOURCE & SELFHOSTED Alternative",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code (New Updates) New SIMPLIFY & BATCH Skill Agents, Better UX, New Commands & MORE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ClaudeDev (Upgraded) The BEST Coding Agent just got EVEN BETTER! (New Commands, Web Parser, etc.)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cline,Roo,Cursor + Coolify This is HOW I Deploy AI Generated APPS EASILY!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Code Assist Agent + Windsurf Cline & Aider This AI Agent makes EVERY AI CODER AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Deepseek R1 AGENTS This FULLY FREE AI Agent CAN DO ANYTHING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Deepseek-R1 (Tested) RIP O3 & SONNET! This IS THE REAL OPEN AGI MODEL! (Beats O1 & 3.5 Sonnet)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Grok 3 (Fully Tested) Is THIS REALLY GOOD OR JUST ANOTHER MODEL",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Project IDX + Flutter + Cline + Firebase I MADE This APP for FREE! (with AI)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RTRVR 2.0 This is THE BEST AI AGENT YET! Can do ANYTHING from ONE PROMPT!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Slack Coder This AI Coder can CREATE FULL-STACK APPS FROM WITHIN SLACK! (w Vectorshift)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Yi-Coder The BEST SMALL & Opensource CODING LLM is here! (Beats DeepSeek, Qwen & Others)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cursor AI Beginners Guide Build Apps with NO CODE!",
+        "creator": "Alex Finn"
+      },
+      {
+        "title": "I’m Launching A New Company… With Davina McCall!",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "This Dragon’s Den Investment Went From £9k A Month To £12 Million A Year!",
+        "creator": "Behind The Diary"
+      },
+      {
+        "title": "Do you know your CG This tool will help. (No, not the tool in the picture)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "EP8 Final Version Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "First Look - Dlux OD-4 Transmission on 110th Scale",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Free BOOMSLANG Chassis Files!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "SCX24 Tire Inserts",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "This ONE Thing Will Improve the Climbing Angle of your RC Crawler",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ultimate SCX24 Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Weight Bias - The Cheap Way",
+        "creator": "Boomslang Suspension"
+      }
+    ]
+  },
+  {
+    "name": "Pro-Line",
+    "slug": "pro-line",
+    "video_count": 1762,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Behind The Diary",
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "Frontier Tech Strategies",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Larue",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "Sean Matthew",
+      "SmartyVan",
+      "The Cat Lady VAN",
+      "The Chrome Project",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "3 LLMs TESTED Gemini 3 Pro VS 4.5 Opus VS GPT-5.1! Results are INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "4.5 Opus + Gemini 3 Pro INSANE Coding Results at LOW COST!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "6 LLMs TESTED GPT-5 vs Sonnet 4.5 vs Grok 4 & MORE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider (Upgraded) + Gemini 2.0 Thinking This AI Coding Agent JUST GOT EVEN BETTER!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider (Upgraded) New Editor Mode, New Commands, Qwen-2.5 Coder Support, O1 Streaming & Much More!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Claude + Invoke + Udio + ElevenLabs Creating Games with AI from Start-To-End!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Claude + NextJS + Supabase Generate FULL-STACK Apps with Claude 3.5 Sonnet",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + CodeQwen This AI Pair Programmer is BETTER than Github's Copilot (works w Ollama, OpenAI)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Gemini + NextJS + Supabase Generate FULL-STACK Apps with Gemini 1.5 Flash Pro",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Gemini-1.5 Pro EXP (0801) + NextJS Generate FULL-STACK Applications",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + NextJS + O1 & O1-Mini Generate FULL-STACK Apps in JUST ONE PROMPT (Better than Claude)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Replit Generate Full-Stack Apps & Deploy in Seconds for FREE! (w Claude 3.5 Sonnet)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Amazon Nova (Fully Tested) This is the NEW CHEAPEST LLM Available YET! (Beats Gemini & Sonnet!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Antigravity 3.0 (New Upgrades) These New Updates make ANTIGRAVITY REALLY GOOD!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Antigravity Co-work Google is TRYING TO COMPETE with Anthropic's Co-Work!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Automaker This AI Coding Agent STUDIO is KINDA COOL!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Bind AI IDE This AI Coder FIXES Vibe-Coding for EVERYONE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat AI Assistants + Aider & Cline All-In-One AI Coding with Custom AI Coders for CHEAP!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cerebras Llama-3.3 Coder Generate Apps In LESS THAN 1 SECOND (Super Fast AI Coder!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ChatGPT Atlas (Fully Tested & Review) It's a gimmick and NOT USABLE. It suffers from many issues!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cheetah (Grok or Sonnet 4.5 - Fast Edit) I FOUND OUT WHAT THIS MODEL IS & IT'S NOT WHAT YOU THINK",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4 ASYNC Coder + Cline, Roo, Kilo + Free API Credits RIP Codex & Jules! This is INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4 Sonnet & Opus + Free APIs RIP Gemini 2.5 Pro! This NEW AI Model is the best AI Coder",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Butler This CRAZY GUI for Claude CodeGLM Code is AWESOME!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code Conductor This CLAUDE CODE CONDUCTOR GUI is INSANELY POWERFUL!",
+        "creator": "AICodeKing"
+      }
+    ]
+  },
+  {
+    "name": "Axial Racing",
+    "slug": "axial-racing",
+    "video_count": 1242,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "Advanced Tuning with Shock Angle - Part 3 PROGRESSION",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Best Battery for Axial SXC24 Crawler - Gens Ace",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "slug": "google",
+    "video_count": 865,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "Frontier Tech Strategies",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Matthew Berman",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "Sean Matthew",
+      "SmartyVan",
+      "The Chrome Project",
+      "Wes Roth"
+    ],
+    "videos": [
+      {
+        "title": "10 CRAZY FREE AI Coding TOOLS THESE ARE THE AI CODING TOOLS that I USE DAILY!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "12 FREE AI Tools that are actually useful!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "21 FREE AI Coding Tools THAT I USE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "5 BEST & FREE AI Coding Assistants in 2024! Github Copilot FREE alternatives (Ranking)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AgentExe & Open Interpreter (OS Mode) Computer USE ON YOUR COMPUTER! (2 New Tools!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AI News Strawberry Q Hype, Llama-4, Gemini Price Cut, New LLMs, Mistral Agents, FLUX, Qwen2",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Claude + NextJS + Supabase Generate FULL-STACK Apps with Claude 3.5 Sonnet",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Gemini-1.5 Pro EXP (0801) + NextJS Generate FULL-STACK Applications",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Antigravity 3.0 (New Upgrades) These New Updates make ANTIGRAVITY REALLY GOOD!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Antigravity Co-work Google is TRYING TO COMPETE with Anthropic's Co-Work!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Bind AI IDE This AI Coder FIXES Vibe-Coding for EVERYONE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "CapRover STOP PAYING for VERCEL & SUPABASE with this NEW, FREE, OPENSOURCE & SELFHOSTED Alternative",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4 Sonnet & Opus + Free APIs RIP Gemini 2.5 Pro! This NEW AI Model is the best AI Coder",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ClaudeDev (Upgraded) The BEST Coding Agent is now INSANE! (Web Browser Control, Gemini-002 & More)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Clawdbot + Antigravity Gemini CLI EASY Way to run CLAWDBOT for FREE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cline & Aider + Knowledge + Web Search AI Coding with KNOWLEDGE BASE & WEB SEARCH is AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Cline + Grok-2 + Expo + Vectorshift The FREE & CRAZY AI Coding Workflow that BEATS ALL!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Context Composer + Cline,Roo,Kilo This simple trick makes your AI Coder 10X BETTER for DEV TEAMS!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Deepseek DEEP Agent This AI Agent CAN CONTROL 1000s OF BROWSERS AT ONCE! (Deep Research)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "DeepSeek-V3 Agents This FULLY FREE AI Agent can DO ANYTHING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "DesignMaster (Dart + N8N + Magic Pattern) This FULLY FREE Async DESIGNER is ABSOLUTELY INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Dify AI Build AI Apps & RAG Workflows with Drag-and-Drop UI through this NEW & OPENSOURCE Platform!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Dokploy STOP PAYING for VERCEL & NETLIFY with this FREE, NEW, OPENSOURCE & SELF-HOSTED Alternative",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Firebase Studio 2.0 + Gemini 3 Pro Firebase Studio by Google just got a CRAZY UPGRADE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Flux 1 + LightningAI + ComfyUI Use FLUX-1 for FREE without GPU! (Flux-1 Schnell Installation)",
+        "creator": "AICodeKing"
+      }
+    ]
+  },
+  {
+    "name": "Hot Racing",
+    "slug": "hot-racing",
+    "video_count": 818,
+    "creators": [
+      "AICodeKing",
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Larue",
+      "Scale Builders Guild",
+      "SmartyVan",
+      "The Cat Lady VAN",
+      "The Chrome Project",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "Claude Code 2.1 (New Upgrades) Are they copying OpenCode Teleport, Sub Agents SUPER, Better Skills",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Tulu 3 This NEW Model BEATS DEEPSEEK-V3 & R1! (Fully Tested)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "24Yep Gets Roasted",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Driving in Hell - Southern Utah in the Summer",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "I don't have time for more podcasts",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "A Conversation with Christine Gadsby from BlackBerry",
+        "creator": "Daniel Miessler"
+      },
+      {
+        "title": "1,000 MILE ROAD TRIP IN A 69 YEAR OLD CAR!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000hp Hot Rod Boat Gang! Finnegan's Garage Ep.109",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000WHP Hemi Shakes the Lights Out of the Ceiling! Finnegan's Garage Ep.258",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "4274 SPEED CORVETTE UP ON BLOCKS FOR 40 YEARS! DID I BUY IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "AMain Hobbies",
+    "slug": "amain-hobbies",
+    "video_count": 707,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "The Cat Lady VAN",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "3Brothers Yellowjacket Vs. Holmes 540M",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Advanced Low CG Trick Battery Terracing - Final Episode 3",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Are you making these mistakes",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Battery Terracing - Part 1 - Soldering",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Best Battery for Axial SXC24 Crawler - Gens Ace",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Calculate Overdrive the Easy Way!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Calculate Spring Rate the EASY Way!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Corner Weight Vs. Cross Weight",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Crazy Hack - Can you really remove a broken Tap or Drill bit with a kitchen spice",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Do you know your CG This tool will help. (No, not the tool in the picture)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "EP6 Printed Version - Quest for the Ultimate Performance Crawler Wheel",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep7 Fails and Foams - Quest for the Ultimate Crawler Wheel",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "EXCLUSIVE Orange Meus V2 Axles SCX24 #rccrawlers#scx24mods #scx24 #meusracing #meus",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Factory Tour - Learn How Most RC Parts are Made!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Find Out What Happens when you Cut or Stretch a Coil Spring!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "How to Lower your CG Part 2 - Wiring",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "INSTRUCTIONS - Ultimate 24 Wheel Builders Kit",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Now Available - the Ultimate SCX24 Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Proline by the Fire 2025 - A Different View",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Pushing the Extreme to the Extreme",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Reefs XP Shock Teardown",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Script Reading for Experts",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "SCX24 Shock Tuning - A Different Approach",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Studio Tour - Legos, Vinyl, Jerseys",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Thanksgiving 2025",
+        "creator": "Boomslang Suspension"
+      }
+    ]
+  },
+  {
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "video_count": 663,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Dan Martell",
+      "Daniel Miessler",
+      "IndyDevDan",
+      "Openclaw Labs",
+      "Sean Matthew",
+      "Wes Roth"
+    ],
+    "videos": [
+      {
+        "title": "12 FREE AI Tools that are actually useful!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent - GPTMe This AI Agent is EASIEST & CAN DO ANYTHING! (Generate Apps, Search, Code, RAG, etc)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent-Zero This Automatic AI AGENT can do ANYTHING! (Generate Apps, Code, RAG, etc.)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AgentExe & Open Interpreter (OS Mode) Computer USE ON YOUR COMPUTER! (2 New Tools!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AI News Strawberry Q Hype, Llama-4, Gemini Price Cut, New LLMs, Mistral Agents, FLUX, Qwen2",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider Composer This VS Code Extension BEATS Cursor!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AWS Kiro AI IDE This FULLY FREE AI Editor w Claude 4 Sonnet is ACTUALLY AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Better Bolt + FREE Mistral & Github API STOP PAYING for V0 & BOLT with this FULLY FREE Alternative",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat (Upgraded) This AI Platform is 10X Cheaper than EVERYONE & IS NOW EVEN BETTER!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat AI Assistants + Aider & Cline All-In-One AI Coding with Custom AI Coders for CHEAP!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "BoxChat This All-In-One AI Platform is 10X Cheaper than Everyone! (O1,GPT-4O, Claude, Flux & SD-3)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Browser Use Agent This FULLY FREE AI Agent CAN CONTROL BROWSERS & DO ANYTHING! (Beats Anthropic!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "ByteDance Seed Code (Fully Tested) ANTHROPIC is OFFICIALLY SCARED of this MODEL!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 3.5 Haiku (Fully Tested) + Aider & Cline This is the CHEAPEST AI Coding Setup!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4 ASYNC Coder + Cline, Roo, Kilo + Free API Credits RIP Codex & Jules! This is INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4 Sonnet & Opus + Free APIs RIP Gemini 2.5 Pro! This NEW AI Model is the best AI Coder",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude 4.5 Haiku (Fully Tested) The WORST Model Anthropic has ever made! Scores #34 on KingBench",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code (Tested) Anthropic's NEW & FREE AI CODER IS INSANE! (RIP Cursor)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code 2.0 + GLM-4.6 The EASIEST & BEST Way to BREAK FREE from Claude-4.5 Sonnet!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code Computer Anthropic just launched Computer PTC Feature & IT'S INSANE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code is RUG PULLING Users! Switch to this OPENSOURCE Alternative NOW!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code TASKS (New Upgrade) RIP Ralph Loops! Anthropic UPGRADED Claude Code with this FEATURE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Code Voice Mode Anthropic just LAUNCHED their NEW VOICE Mode and it's AWESOME!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Computer Use Agent (Fully Tested) THIS IS The BEST Computer Controlling AI Agent Ever!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Claude Cowork (Fully Tested) I might get ADDICTED to this NEW CLAUDE CODE FEATURE!",
+        "creator": "AICodeKing"
+      }
+    ]
+  },
+  {
+    "name": "Crawler Innovations",
+    "slug": "crawler-innovations",
+    "video_count": 563,
+    "creators": [
+      "AICodeKing",
+      "Boomslang Suspension",
+      "Daniel Miessler",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Scale Builders Guild",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "Mistral's FREE Coding Canvas, Search & Image Gen This BEATS Claude & ChatGPT for FULLY FREE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Perplexica + Llama-3.1 (405B, 70B, 8B) This LOCAL & FREE CLONE of Perplexity BEATS Everyone!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Ranking Which LLMs are the BEST FOR 2025 (Ranking Every LLM Released in 2024!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RooCline This Cline Fork is FAST & BETTER and Beats CLINE",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "WebDev This FREE AI Coder BEATS V0, Bolt & Has 3.5 SONNET, GPT-4O & More FOR FREE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "2024 WRCCA National Championships - SUPER Class",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "24Yep Gets Roasted",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Advanced Low CG Trick Battery Terracing - Final Episode 3",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Are you making these mistakes",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Arizona Down 11 #rccrawl #rc #rccrawling #rccrawler",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Arizona Down 19 #rc #rccrawl #offroad #rccrawling #rccrawler #rc #deathdrop #antisquat #crawler",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Bat Hang",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Beekeeper ESC Teardown - Can I make it better",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Best Battery for Axial SXC24 Crawler - Gens Ace",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "BIG NEWS - Now You Can Buy Crawler Parts Designed by Boomslang",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Calculate Spring Rate the EASY Way!",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Can you have TOO much Articulation",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Crazy Hack - Can you really remove a broken Tap or Drill bit with a kitchen spice",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Do RC CV” Joints work like full sized ones",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Do you know your CG This tool will help. (No, not the tool in the picture)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Does a Shock Bladder Help or Hurt",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep1 The Concept - Quest for The Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep2 Simple Version - Quest for The Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep3 Dlux Detour - Quest for The Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ep4 Full Carbon Proto - Quest for The Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      }
+    ]
+  },
+  {
+    "name": "Pitbull Tires",
+    "slug": "pitbull-tires",
+    "video_count": 538,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "The Chrome Project",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "EP8 Final Version Ultimate Crawler Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "INSTRUCTIONS - Ultimate 24 Wheel Builders Kit",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Tire Venting Method 1 - Most Common",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Tire Venting Method 2 - After Mounting",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "Ultimate SCX24 Wheels",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "I don't have enough time for my family",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "You're never too busy for family",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Avoiding the Virus with Ramp Truck Burnouts! Finnegan's Garage Ep.95",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Chevy LUV Inhales Nitrous for A full Minute and Melts the Exhaust! Finnegan's Garage Ep.126",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "DAY 5 OF DRAG WEEK=MORE BROKEN PARTS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "DON'T CALL IT A COMEBACK! '67 FIREBIRD TRACK BLAST",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Dyno Results for the Body-Dropped and LT Swapped Chevy C10 Finnegan's Garage Ep.140",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "EPIC 5 DAY TOYOTA MINITRUCK MAKEOVER!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep 16 Hemi-Powered Chevy Bel Air Tuning and Burnouts",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep 17 A Green Hornet' Update!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.257 I CUT UP A $20,000 TUBE CHASSIS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.38 Duramax LBZ Burnouts and How-to Install an EGT Sensor",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.48 '69 Pontiac Firebird Tire Smoke With Fully Functional Taillights!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.60 Blowouts, Rusty Gas Tanks and The World's Longest Ramp Truck!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.65 The Biggest Wheelie and Race of My Life!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegan's Garage Ep.67 Did I Just Install the Widest Front Wheels on a Chevy C10 Ever",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Finnegans Garage Ep.61 The Hoonigan Grudge Match is on and Somebody is Losing Their Beard!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "FIRST BURNOUT IN MY SUPERCHARGED CHEVY C10!!!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "Horizon Hobby",
+    "slug": "horizon-hobby",
+    "video_count": 524,
+    "creators": [
+      "AICodeKing",
+      "Boomslang Suspension",
+      "Daniel Miessler",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Scale Builders Guild",
+      "The Cat Lady VAN",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "Cerebras Llama-3.3 Coder Generate Apps In LESS THAN 1 SECOND (Super Fast AI Coder!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Gemini Experimental 1206 This NEW FREE Gemini Model is THE BEST LLM Yet (Beats Sonnet, GPT-4O)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Horizon Alpha (Fully Tested) IS IT GPT-5! This OpenAI's SECRET Model is KINDA INSANE! (+Free API)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Kimi K2 Reasoning (Fully Tested) IS IT REALLY THE BEST Open Model",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "OttoDev (Upgraded) This is The BEST LOCAL Alternative to V0 & BOLT Right Now!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "RooCode (New Upgrades & Cloud) + Free APIs Cloud Features, Slash Commands, Mode Markets & More!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Random Rock, Windy Tempe",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "A Conversation With Kun Chen",
+        "creator": "Daniel Miessler"
+      },
+      {
+        "title": "#AskGaryVee Episode 12 The Hype Artist",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "11 Tips to Sports Card Investing in 2020 Tea With GaryVee",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "15 Moments That Will Convince You to Finally Get Into the Sports Cards Market",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "2026 trend make $50K–$100K talking about your passion 💸",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Get paid $50K just to talk about your hobby",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Growing a Cookie Business, Facebook Ads for Car Sales & Betting Against the Market #AskGaryVee 245",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "How My Passion Is Making Me More Money Than Ever Before",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "How the flip life turned a $3.99 purchase into $107,000 profit #garyvee #shorts",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "How to Navigate Bad Days",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "How to turn $20 into $10,000",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "I Dreamed About This Day Since I was 15 DailyVee 563",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Is Entrepreneurship Your Hobby",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Making $$$ Monetizing Your Hobby",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "New Skills I've Learned From Someone Else",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "No one is talking about how to make money like this",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Social Media Marketing Strategy For Businesses In 2024",
+        "creator": "GaryVee"
+      },
+      {
+        "title": "Started From The Bottom Now We’re Back 😎 DailyVee 612",
+        "creator": "GaryVee"
+      }
+    ]
+  },
+  {
+    "name": "Redcat Racing",
+    "slug": "redcat-racing",
+    "video_count": 500,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cross-Country Limo Truck Road Trip Interview with Freiburger!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "CROWD REACTIONS TO MY BARN-FIND TURBO 2JZ-SWAPPED CHARGER!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "HPI Racing",
+    "slug": "hpi-racing",
+    "video_count": 473,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cross-Country Limo Truck Road Trip Interview with Freiburger!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "CROWD REACTIONS TO MY BARN-FIND TURBO 2JZ-SWAPPED CHARGER!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "Boom Racing",
+    "slug": "boom-racing",
+    "video_count": 462,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Rob Walling",
+      "Scale Builders Guild",
+      "The Chrome Project",
+      "Wes Roth",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "BOOM! Failed so many times before I landed this one. What a feeling! #shorts #snow #snowboarding",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cross-Country Limo Truck Road Trip Interview with Freiburger!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "Yeah Racing",
+    "slug": "yeah-racing",
+    "video_count": 461,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Daniel Miessler",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "IndyDevDan",
+      "Scale Builders Guild",
+      "The Chrome Project",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 SaaS Pricing Strategies That Will Boost Your Revenue in 2026",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "The Great Transition",
+        "creator": "Daniel Miessler"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "CEN Racing",
+    "slug": "cen-racing",
+    "video_count": 454,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cross-Country Limo Truck Road Trip Interview with Freiburger!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "CROWD REACTIONS TO MY BARN-FIND TURBO 2JZ-SWAPPED CHARGER!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "Club5 Racing",
+    "slug": "club5-racing",
+    "video_count": 435,
+    "creators": [
+      "Boomslang Suspension",
+      "Dan Martell",
+      "Finnegan's Garage",
+      "GaryVee",
+      "HarleyDesignsInc",
+      "Scale Builders Guild",
+      "West Desert Wheeler"
+    ],
+    "videos": [
+      {
+        "title": "How to Get Consistent Damping - The Tool You Never Knew You Needed",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Biggest Misunderstanding in RC Crawling - The Definitive Guide to Anti-Squat",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "The Definitive Guide to Anti-Squat on Scale RC Crawlers - Part I The Theory (Textbook Version)",
+        "creator": "Boomslang Suspension"
+      },
+      {
+        "title": "5 Reasons Racing In The Mexican Desert Is Like Running a Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "5 Reasons You Should Join a CEO Group To Help Grow Your SaaS Business",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "8 Business Lessons Learned From DirtFish (Rally Racing)",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "how I turned my life around…",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How To Get To Sleep When Your Mind Is Racing",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "How to Maximize Sleep as an Entrepreneur",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "If You Want Abs in 90 Days, Do This",
+        "creator": "Dan Martell"
+      },
+      {
+        "title": "1,300HP WITHOUT NOS, TURBOS OR A BLOWER! PART 1 OF 3 RACING A 10.5L JET BOAT!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1-Week Chevy C10 Truck Build and Road Trip-Part 3 Finnegan's Garage Ep.134",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "1000HP AT THE TIRES! BLASPHEMI RUNS AGAIN!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "200 MPH STREET CARS DOING BATTLE! SICK WEEK 2022 FINALE",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "8 second Street Car Cruising the Las Vegas Strip!-Finnegan's Garage Ep.82",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Barn Find '68 Charger Hits The Streets-Finnegan's Garage Ep.77",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BARN FIND PRO STREET '67 FIREBIRD DYNO SESSION!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Behind the Scenes of Drag Week Finnegan's Garage Ep.114",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Blasphemi runs 8.52 at Drag Week 2019! Finnegan's Garage Ep.80",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BLEW UP THE HEMI! NOW HOW DO WE FIX IT",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BOUGHT A USED LS-POWERED RACE TRUCK AND THE ROOF BLEW OFF!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "BROKE THE 632CI V8 AND STILL WENT TO THE FINALS!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cleetus McFarland Vs Finnegan Diesel Drag Race! Finnegan's Garage Ep.74",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "Cross-Country Limo Truck Road Trip Interview with Freiburger!",
+        "creator": "Finnegan's Garage"
+      },
+      {
+        "title": "CROWD REACTIONS TO MY BARN-FIND TURBO 2JZ-SWAPPED CHARGER!",
+        "creator": "Finnegan's Garage"
+      }
+    ]
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "video_count": 435,
+    "creators": [
+      "AICodeKing",
+      "Alex Finn",
+      "Dan Martell",
+      "Daniel Miessler",
+      "IndyDevDan",
+      "Jordan Rafealov",
+      "Matthew Berman",
+      "Openclaw Labs",
+      "Riley Brown",
+      "Rob Walling",
+      "Sean Matthew",
+      "SmartyVan",
+      "The Chrome Project",
+      "Wes Roth"
+    ],
+    "videos": [
+      {
+        "title": "$3 GLM Coding Plan + $10 Copilot $13 is ALL YOU NEED to have a SOTA AI Coder! Bye Claude Code!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "10 CRAZY FREE AI Coding TOOLS THESE ARE THE AI CODING TOOLS that I USE DAILY!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "21 FREE AI Coding Tools THAT I USE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "5 BEST & FREE AI Coding Assistants in 2024! Github Copilot FREE alternatives (Ranking)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent - GPTMe This AI Agent is EASIEST & CAN DO ANYTHING! (Generate Apps, Search, Code, RAG, etc)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent-K This Self-Evolving AI AGENT can do EVERYTHING! (Generate Apps, Code, RAG, etc.)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent-OI (Open Interpreter) The BEST AI Agent that can do ANYTHING! (Generate Apps,Code, RAG, etc)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent-OpenMacro This SELF-PROMPTING AI Agent CAN DO ANYTHING & CONTROL YOUR BROWSER (Code,RAG,etc)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Agent-OS This AI Agent can CONTROL YOUR COMPUTER & DO ANYTHING (Generate Apps, Code, RAG, etc.)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "AgentExe & Open Interpreter (OS Mode) Computer USE ON YOUR COMPUTER! (2 New Tools!)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider & Cline + Github Models FREE API AI Coding with GPT-4O for FULLY FREE IS AMAZING!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider (Upgraded) + FREE Claude ChatGPT + Files To Prompt This is the BEST FREE Way for AI Coding!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider (Upgraded) New Editor Mode, New Commands, Qwen-2.5 Coder Support, O1 Streaming & Much More!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Claude 3.5 Sonnet + DeepSeek You can now GENERATE APPLICATIONS with ONE PROMPT (w Ollama)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + CodeQwen This AI Pair Programmer is BETTER than Github's Copilot (works w Ollama, OpenAI)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + LightningAI + DeepSeek-Coder-V2 + Udio + ElevenLabs Generate Games with AI (w Local LLMs)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider + Replit Generate Full-Stack Apps & Deploy in Seconds for FREE! (w Claude 3.5 Sonnet)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Aider Composer This VS Code Extension BEATS Cursor!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Athas AI Editor + Claude Code BYE Cursor, VS Code! This SUPER FAST Opensource AI Editor is CRAZY!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Auggie CLI This AI CODER CLI is THE REAL WORKHORSE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Auto-Gemini This TASK-TO-PROJECT Coder is WHAT YOU NEED & IT'S FULLY FREE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Avante This is a GREAT Opensource AI Code Editor based on NeoVim (w Ollama Support)",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Better Bolt + FREE Mistral & Github API STOP PAYING for V0 & BOLT with this FULLY FREE Alternative",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Bind AI IDE This AI Coder FIXES Vibe-Coding for EVERYONE!",
+        "creator": "AICodeKing"
+      },
+      {
+        "title": "Bind AI IDE This FREE AI Coder BEATS BOLT, V0 & MORE! (w 3.7 Sonnet!)",
+        "creator": "AICodeKing"
+      }
+    ]
+  }
+]

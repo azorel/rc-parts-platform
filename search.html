@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Search · RC Parts Platform</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="search">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html">RC Parts Platform</a>
+        <p>Find brands, creators, or products</p>
+      </div>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="brands.html">Brands</a>
+        <a href="search.html">Search</a>
+        <a href="creator.html">Creators</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button">🌙</button>
+    </header>
+    <main>
+      <section class="section-header">
+        <div>
+          <h1>Search the database</h1>
+          <p>Search across brands, products, creators, and the videos that mention them.</p>
+        </div>
+      </section>
+      <form id="search-page-form" class="search-form">
+        <input id="search-page-input" type="search" placeholder="Search for brands, creators, or parts" required />
+        <button type="submit">Search</button>
+      </form>
+      <p id="search-query-label" class="muted" style="margin-top: 0.75rem;">Try typing "Vanquish" or a creator name.</p>
+      <div id="search-results" class="card-grid" style="margin-top: 1rem;"></div>
+    </main>
+    <footer class="bottom-note">
+      <p>All search results are powered by the nightly search-index build script.</p>
+    </footer>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

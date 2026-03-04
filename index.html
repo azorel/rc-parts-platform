@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RC Parts Platform</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="home">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html">RC Parts Platform</a>
+        <p>Find parts for your RC truck</p>
+      </div>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="brands.html">Brands</a>
+        <a href="search.html">Search</a>
+        <a href="creator.html">Creators</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button">🌙</button>
+    </header>
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="muted">Phase 1 data — refreshed nightly</p>
+          <h1>Find parts for your RC truck</h1>
+          <p>
+            Browse every brand, creator, and product mentioned in the RC space. Use the search
+            bar to discover compatibility data or learn where your favorite parts were tested.
+          </p>
+          <form id="home-search" class="search-form">
+            <input
+              type="search"
+              name="q"
+              placeholder="Search brands, creators, or products"
+              required
+            />
+            <button type="submit">Search</button>
+          </form>
+        </div>
+        <div class="hero-card">
+          <h3>Live database</h3>
+          <p>The data we ship nightly straight from the creator pipeline.</p>
+          <div class="stat-line">
+            <strong data-stat="brands">—</strong>
+            <span>brands tracked</span>
+          </div>
+          <div class="stat-line">
+            <strong data-stat="creators">—</strong>
+            <span>creators monitored</span>
+          </div>
+          <div class="stat-line">
+            <strong data-stat="search">—</strong>
+            <span>search entries</span>
+          </div>
+          <p class="muted">Spotlight brand: <strong id="hero-top-brand">—</strong></p>
+          <a class="card-link" href="brands.html">Browse brands</a>
+        </div>
+      </section>
+
+      <section class="grid-section">
+        <div class="section-header">
+          <div>
+            <h2>Trending brands</h2>
+            <p>Most frequently mentioned brands right now.</p>
+          </div>
+          <a class="link-pill" href="brands.html">View all brands</a>
+        </div>
+        <div id="trending-brands" class="card-grid"></div>
+      </section>
+
+      <section class="grid-section">
+        <div class="section-header">
+          <div>
+            <h2>Fresh uploads</h2>
+            <p>Latest creator videos keep the brand context current.</p>
+          </div>
+          <a class="link-pill" href="search.html?q=latest">See more</a>
+        </div>
+        <div id="fresh-videos" class="list-grid"></div>
+      </section>
+
+      <section class="grid-section">
+        <div class="section-header">
+          <div>
+            <h2>Creators powering the data</h2>
+            <p>Every upload becomes a new compatibility datapoint.</p>
+          </div>
+          <a class="link-pill" href="search.html?q=creator">Search creators</a>
+        </div>
+        <div id="creator-cards" class="card-grid"></div>
+      </section>
+
+      <section class="grid-section">
+        <div class="detail-card">
+          <h2>Data pipeline</h2>
+          <p>The nightly script turns brand mentions and creator feeds into JSON the client can consume.</p>
+          <ul>
+            <li><code>scripts/rc/build-site-data.py</code> reads <code>data/brand-mentions.json</code> and <code>data/creators/*/videos.json</code>.</li>
+            <li>Generated files land in <code>products/rc-parts-platform/data/</code> for brands, creators, and search.</li>
+            <li>The static pages load that JSON client-side so no build step is required.</li>
+          </ul>
+          <p class="muted">Deploying this folder to GitHub Pages keeps the experience fast and free.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="bottom-note">
+      <p>Data pipeline powered by nightly parses of creator feeds and brand mentions.</p>
+    </footer>
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
