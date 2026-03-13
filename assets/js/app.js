@@ -332,6 +332,16 @@ function attachFilters() {
       }
     });
   }
+  
+  // Attach compatibility filter listeners
+  const platformFilter = document.getElementById("filter-platform");
+  const scaleFilter = document.getElementById("filter-scale");
+  if (platformFilter) {
+    platformFilter.addEventListener("change", applyFilters);
+  }
+  if (scaleFilter) {
+    scaleFilter.addEventListener("change", applyFilters);
+  }
 }
 
 function applySearchParam() {
@@ -340,6 +350,44 @@ function applySearchParam() {
   if (input) {
     input.value = param;
   }
+}
+
+function applyFilters() {
+  const platformFilter = document.getElementById("filter-platform")?.value || "";
+  const scaleFilter = document.getElementById("filter-scale")?.value || "";
+  
+  // Filter trending brands by platform and scale
+  const trendingContainer = document.getElementById("trending-brands");
+  if (trendingContainer) {
+    const cards = trendingContainer.querySelectorAll(".card");
+    cards.forEach((card) => {
+      const text = card.textContent.toLowerCase();
+      const platformMatch = !platformFilter || text.includes(platformFilter.toLowerCase());
+      const scaleMatch = !scaleFilter || text.includes(scaleFilter);
+      card.style.display = platformMatch && scaleMatch ? "" : "none";
+    });
+  }
+  
+  // Store filter state in URL for persistence
+  const params = new URLSearchParams();
+  if (platformFilter) params.set("platform", platformFilter);
+  if (scaleFilter) params.set("scale", scaleFilter);
+  window.history.replaceState({}, "", `?${params.toString()}`);
+}
+
+function clearFilters() {
+  document.getElementById("filter-platform").value = "";
+  document.getElementById("filter-scale").value = "";
+  
+  // Show all cards
+  const trendingContainer = document.getElementById("trending-brands");
+  if (trendingContainer) {
+    trendingContainer.querySelectorAll(".card").forEach((card) => {
+      card.style.display = "";
+    });
+  }
+  
+  window.history.replaceState({}, "", window.location.pathname);
 }
 
 function setupThemeToggle() {

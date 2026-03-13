@@ -59,6 +59,29 @@
         </div>
       </section>
 
+      <!-- Compatibility Filters -->
+      <section class="grid-section">
+        <div id="compatibility-filters" style="margin:1rem 0;padding:1rem;background:#1a1a2e;border-radius:8px;display:flex;gap:1rem;flex-wrap:wrap">
+          <label style="color:#ccc">Filter by:
+            <select id="filter-platform" style="margin-left:0.5rem;background:#2a2a3e;color:#fff;border:1px solid #4a9eff;border-radius:4px;padding:4px 8px">
+              <option value="">All Platforms</option>
+              <option>Axial</option><option>JConcepts</option><option>Traxxas</option>
+              <option>Redcat</option><option>Losi</option><option>HPI</option>
+              <option>Team Associated</option><option>Arrma</option>
+            </select>
+          </label>
+          <label style="color:#ccc">Scale:
+            <select id="filter-scale" style="margin-left:0.5rem;background:#2a2a3e;color:#fff;border:1px solid #4a9eff;border-radius:4px;padding:4px 8px">
+              <option value="">All Scales</option>
+              <option>1/10</option><option>1/8</option><option>1/5</option>
+              <option>1/18</option><option>1/24</option><option>1/6</option>
+            </select>
+          </label>
+          <button onclick="applyFilters()" style="background:#4a9eff;color:#000;border:none;border-radius:4px;padding:4px 12px;cursor:pointer">Apply</button>
+          <button onclick="clearFilters()" style="background:#333;color:#ccc;border:none;border-radius:4px;padding:4px 12px;cursor:pointer">Clear</button>
+        </div>
+      </section>
+
       <section class="grid-section">
         <div class="section-header">
           <div>
